@@ -1991,3 +1991,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.17-08.31.42:419][836]LogSlate: Window 'Dice_UI_widget' being destroyed
 [2022.07.17-08.34.00:537][962]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.07.17-08.34.00:537][962]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.17-08.37.16:272][351]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.17-08.37.16:272][351]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.17-08.38.54:169][ 50]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.17-08.38.54:169][ 50]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.17-08.38.59:233][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.17-08.38.59:287][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.17-08.38.59:300][581]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMap81028986418BCC4420F04BBB9EE732FC.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap'
+[2022.07.17-08.38.59:420][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap_BuiltData" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset" SILENT=true
+[2022.07.17-08.38.59:437][581]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMap_BuiltDataCE4E69FB40335F633AE2C4B89C9B0C32.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset'
+[2022.07.17-08.38.59:465][581]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.17-08.38.59:465][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestingMap_BuiltData.TestingMap_BuiltData
+[2022.07.17-08.38.59:465][581]LogContentValidation: Display: Validating World /Game/TestingMap.TestingMap
+[2022.07.17-08.39.01:265][780]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.17-08.39.01:271][780]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.17-08.39.01:271][780]LogPlayLevel: [PlayLevel] Compiling Dice before play...
+[2022.07.17-08.39.01:353][780]LogPlayLevel: [PlayLevel] Compiling Dice_UI_widget before play...
+[2022.07.17-08.39.01:450][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.07.17-08.39.01:453][780]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (2 blueprints)
+[2022.07.17-08.39.01:453][780]PIE: New page: PIE session: TestingMap (17. 7. 2022, 12:39:01)
+[2022.07.17-08.39.01:453][780]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestingMap
+[2022.07.17-08.39.01:455][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2022.07.17-08.39.01:456][780]LogAIModule: Creating AISystem for world TestingMap
+[2022.07.17-08.39.01:456][780]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2022.07.17-08.39.01:456][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestingMap.TestingMap to /Game/UEDPIE_0_TestingMap.TestingMap (0.004261s)
+[2022.07.17-08.39.01:506][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.07.17-08.39.01:506][780]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.17-08.39.01:506][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.17-08.39.01:506][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.17-08.39.01:507][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.17-08.39.01:507][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.17-08.39.01:507][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.17-08.39.01:507][780]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.17-08.39.01:510][780]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.17-08.39.01:510][780]LogAudioMixer: Display: 1: FrontRight
+[2022.07.17-08.39.01:519][780]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.07.17-08.39.01:520][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.17-08.39.01:520][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.17-08.39.01:520][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.17-08.39.01:520][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.17-08.39.01:520][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.17-08.39.01:520][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.17-08.39.01:521][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.17-08.39.01:521][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.17-08.39.01:521][780]LogInit: FAudioDevice initialized.
+[2022.07.17-08.39.01:521][780]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestingMap'.
+[2022.07.17-08.39.01:541][780]LogLoad: Game class is 'CB_GameModeBase_C'
+[2022.07.17-08.39.01:542][780]LogWorld: Bringing World /Game/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2022.07.17-10.39.01
+[2022.07.17-08.39.01:542][780]LogWorld: Bringing up level for play took: 0.000616
+[2022.07.17-08.39.01:542][780]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.07.17-08.39.01:546][780]LogBlueprintUserMessages: [Dice_2] ARAR
+[2022.07.17-08.39.01:546][780]PIE: Server logged in
+[2022.07.17-08.39.01:547][780]PIE: Play in editor total start time 0,277 seconds.
+[2022.07.17-08.39.03:679][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-08.39.03:679][ 14]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestingMap
+[2022.07.17-08.39.03:686][ 14]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-08.39.03:687][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.39.03:719][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.17-08.39.03:757][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.39.03:817][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-08.39.03:818][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-08.39.03:819][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-08.39.03:846][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.07.17-08.39.03:921][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.07.17-08.39.14:022][175]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/Dice_UI_widget42F2C35141FC78A69CDF6AAE6CABD036.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/HUD/Dice_UI_widget.uasset'
+[2022.07.17-08.39.14:035][175]AssetCheck: New page: Asset Save: Dice_UI_widget
+[2022.07.17-08.39.14:035][175]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameObjects/Components/HUD/Dice_UI_widget.Dice_UI_widget
