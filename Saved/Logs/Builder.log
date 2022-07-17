@@ -2063,3 +2063,103 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.17-08.39.14:022][175]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/Dice_UI_widget42F2C35141FC78A69CDF6AAE6CABD036.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/HUD/Dice_UI_widget.uasset'
 [2022.07.17-08.39.14:035][175]AssetCheck: New page: Asset Save: Dice_UI_widget
 [2022.07.17-08.39.14:035][175]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameObjects/Components/HUD/Dice_UI_widget.Dice_UI_widget
+[2022.07.17-08.39.37:763][556]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/Dice_UI_widget09009B854234EB80143370A33D4BA815.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/HUD/Dice_UI_widget.uasset'
+[2022.07.17-08.39.37:777][556]AssetCheck: New page: Asset Save: Dice_UI_widget
+[2022.07.17-08.39.37:777][556]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameObjects/Components/HUD/Dice_UI_widget.Dice_UI_widget
+[2022.07.17-08.39.52:754][935]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.17-08.39.52:760][935]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.17-08.39.52:761][935]LogPlayLevel: [PlayLevel] Compiling Dice_UI_widget before play...
+[2022.07.17-08.39.52:895][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.07.17-08.39.52:897][935]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2022.07.17-08.39.52:898][935]PIE: New page: PIE session: TestingMap (17. 7. 2022, 12:39:52)
+[2022.07.17-08.39.52:898][935]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestingMap
+[2022.07.17-08.39.52:900][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002640s)
+[2022.07.17-08.39.52:902][935]LogAIModule: Creating AISystem for world TestingMap
+[2022.07.17-08.39.52:902][935]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2022.07.17-08.39.52:902][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestingMap.TestingMap to /Game/UEDPIE_0_TestingMap.TestingMap (0.004781s)
+[2022.07.17-08.39.52:950][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.07.17-08.39.52:950][935]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.17-08.39.52:950][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.17-08.39.52:950][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.17-08.39.52:951][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.17-08.39.52:951][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.17-08.39.52:951][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.17-08.39.52:951][935]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.17-08.39.52:954][935]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.17-08.39.52:954][935]LogAudioMixer: Display: 1: FrontRight
+[2022.07.17-08.39.52:964][935]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.07.17-08.39.52:965][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.17-08.39.52:965][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.17-08.39.52:965][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.17-08.39.52:965][935]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.17-08.39.52:965][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.17-08.39.52:965][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.17-08.39.52:966][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.17-08.39.52:967][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.17-08.39.52:967][935]LogInit: FAudioDevice initialized.
+[2022.07.17-08.39.52:967][935]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestingMap'.
+[2022.07.17-08.39.52:998][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-08.39.52:998][935]LogLoad: Game class is 'CB_GameModeBase_C'
+[2022.07.17-08.39.52:999][935]LogWorld: Bringing World /Game/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2022.07.17-10.39.52
+[2022.07.17-08.39.52:999][935]LogWorld: Bringing up level for play took: 0.000717
+[2022.07.17-08.39.53:000][935]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.07.17-08.39.53:004][935]LogBlueprintUserMessages: [Dice_2] ARAR
+[2022.07.17-08.39.53:005][935]PIE: Server logged in
+[2022.07.17-08.39.53:006][935]PIE: Play in editor total start time 0,247 seconds.
+[2022.07.17-08.40.25:221][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-08.40.25:221][743]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestingMap
+[2022.07.17-08.40.25:221][743]LogSlate: Window 'Builder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.17-08.40.25:225][743]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-08.40.25:225][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.40.25:235][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.17-08.40.25:249][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.40.25:296][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-08.40.25:297][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-08.40.25:304][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.07.17-08.40.25:321][744]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.07.17-08.42.42:658][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.17-08.42.42:713][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.07.17-08.42.42:740][969]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMapD4F8375A402D42719BF7519568C86602.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap'
+[2022.07.17-08.42.42:831][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap_BuiltData" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset" SILENT=true
+[2022.07.17-08.42.42:841][969]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMap_BuiltDataB4E643174153C9CC590C29BA4D196492.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset'
+[2022.07.17-08.42.42:853][969]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.17-08.42.42:853][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestingMap_BuiltData.TestingMap_BuiltData
+[2022.07.17-08.42.42:854][969]LogContentValidation: Display: Validating World /Game/TestingMap.TestingMap
+[2022.07.17-08.42.44:789][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Components/Blueprints/Dice" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/Blueprints/Dice.uasset" SILENT=true
+[2022.07.17-08.42.44:847][164]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/Dice25A6743C411749F7765167ABC1A94E79.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/Blueprints/Dice.uasset'
+[2022.07.17-08.42.44:862][164]AssetCheck: New page: Asset Save: Dice
+[2022.07.17-08.42.44:862][164]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Components/Blueprints/Dice.Dice
+[2022.07.17-08.42.48:823][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.07.17-08.42.51:089][615]LogSlate: Window 'Save Content' being destroyed
+[2022.07.17-08.43.07:776][283]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObjects/Components/Data/GlovalVars.GlovalVars
+[2022.07.17-08.43.09:811][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameObjects/Components/Data/GlovalVars" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/Data/GlovalVars.uasset" SILENT=true
+[2022.07.17-08.43.09:815][477]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/GlovalVarsC4C070C146D8C775E05EEDAD49F7100E.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/GameObjects/Components/Data/GlovalVars.uasset'
+[2022.07.17-08.43.09:828][477]AssetCheck: New page: Asset Save: GlovalVars
+[2022.07.17-08.43.09:828][477]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Components/Data/GlovalVars.GlovalVars
+[2022.07.17-08.43.10:513][559]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-08.43.10:513][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.43.16:940][262]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-08.43.16:940][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.43.16:971][262]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-08.43.16:971][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-08.43.18:766][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.07.17-08.43.19:547][422]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.17-08.43.19:727][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.07.17-08.43.19:777][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.17-08.43.19:819][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.07.17-08.43.20:019][422]SourceControl: Error: Updated 0 paths from the index
+[2022.07.17-08.43.20:141][422]SourceControl: rm 'Content/GameObjects/Components/HUD/HudBar.uasset'
+[2022.07.17-08.43.28:628][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.17-08.43.28:668][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.17-08.43.28:679][247]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMap877447694B599F5D3F3BFB8A607B6EDC.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap.umap'
+[2022.07.17-08.43.28:767][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestingMap_BuiltData" FILE="../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset" SILENT=true
+[2022.07.17-08.43.28:778][247]LogSavePackage: Moving '../../../../../../Users/Ondrej/Projects/UE4/Builder/Saved/TestingMap_BuiltData13F68B1A4F34E4DBD24437922ECF4412.tmp' to '../../../../../../Users/Ondrej/Projects/UE4/Builder/Content/TestingMap_BuiltData.uasset'
+[2022.07.17-08.43.28:788][247]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.17-08.43.28:788][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestingMap_BuiltData.TestingMap_BuiltData
+[2022.07.17-08.43.28:788][247]LogContentValidation: Display: Validating World /Game/TestingMap.TestingMap
